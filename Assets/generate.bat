@@ -1,0 +1,1 @@
+dotnet-mpc -i "../../Assembly-CSharp.csproj" -o "MessagePackGenerated.cs"
