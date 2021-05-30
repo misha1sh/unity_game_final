@@ -5,7 +5,7 @@
   "dependencies": {
     "log4js": "^6.2.1",
     "uniqid": "5.2.0",
-    "ws": "7.2.3",
+    "ws": "7.4.6",
     "utf8": "3.0.0",
     "json-schema": "0.2.5",
     "to-json-schema": "0.2.5",
