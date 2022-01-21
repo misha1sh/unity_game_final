@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "log4js": "^6.2.1",
+    "log4js": "^6.4.0",
     "uniqid": "5.2.0",
     "ws": "7.2.3",
     "utf8": "3.0.0",
